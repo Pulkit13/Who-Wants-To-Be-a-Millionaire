@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/Pulkit/Desktop/sphinx4-1.0beta6-bin/sphinx4-1.0beta6/lib/js.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Pulkit/Desktop/sphinx4-1.0beta6-bin/sphinx4-1.0beta6/lib/jsapi.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Pulkit/Desktop/sphinx4-1.0beta6-bin/sphinx4-1.0beta6/lib/sphinx4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Pulkit/Desktop/sphinx4-1.0beta6-bin/sphinx4-1.0beta6/lib/tags.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/Pulkit/Desktop/sphinx4-1.0beta6-bin/sphinx4-1.0beta6/bin/JSGFDemo.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
